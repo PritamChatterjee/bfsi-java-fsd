@@ -1,0 +1,10 @@
+AMC BANK DAY 9 FINAL INTEGRATED PROJECT
+
+1. Create PostgreSQL database amc_bank_customer_login.
+2. Import backend folder into Eclipse as Existing Maven Project.
+3. Set PostgreSQL credentials in application.properties.
+4. Run AmcBankApplication.java.
+5. Open frontend in VS Code.
+6. Run npm install then npm run dev.
+7. Login as admin / admin123.
+8. Create a customer with an initial password; then test customer login using email + that password.
