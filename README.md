@@ -1,7 +1,4 @@
-# AMC Bank - Day 9 FINAL Integrated Project
-
-This is the course-ending project. It combines the backend built through Days 6-8 with React/Vite, Spring Security, JWT, role-based access and customer self-service.
-
+# AMC Bank - 
 ## Stack
 - Java 17, Spring Boot 3.3.4
 - Spring Web, Spring Data JPA, Spring Security
